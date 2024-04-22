@@ -4,6 +4,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    -webkit-box-shadow: 2px 11px 56px -10px rgba(0,0,0,0.75);
+    -webkit-border-radius: 23px 23px 23px 23px;
 }
 
 .search-box input{
@@ -27,7 +29,7 @@
     width: 50px;
     height: 50px;
     color: #06283D;
-    background: #dff6ff;
+    background: #e7eced;
     border-radius: 50%;
     font-size: 22px;
     transition: 0.4s ease;
@@ -42,4 +44,12 @@
     position: absolute;
     color: #06283D;
     font-size: 28px;
+}
+
+.ng-fa-icon {
+    padding-left:20px;
+}
+
+.ng-fa-icon {
+    padding-right: 20px;
 }

@@ -3,8 +3,7 @@
 }
 
 .weather-box img{
-    width: 60%;
-    margin-top: 30px;
+    width: 25%;
 }
 
 .weather-box .temperature{
@@ -27,4 +26,18 @@
     font-size: 22px;
     font-weight: 500;
     text-transform: capitalize;
+    padding-bottom: 5px;
+}
+
+.weather-box .chance-of-rain{
+    color: #06283D;
+    font-size: 13px;
+    font-weight: 500;
+    padding-right: 50px;
+}
+
+.weather-box .min-temp{
+    color: #06283D;
+    font-size: 13px;
+    font-weight: 500;
 }

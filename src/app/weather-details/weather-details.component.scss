@@ -3,6 +3,8 @@
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
+    border: 1px solid #dfdede;
+    -webkit-border-radius: 10px 10px 10px 10px;
 }
 
 .weather-details .humidity, .weather-details .wind{
@@ -39,4 +41,10 @@
     color: #06283D;
     font-size: 14px;
     font-weight: 500;
+}
+
+.text {
+    border: 9px solid #dbdbdb;
+    background-color: #dbdbdb;
+    -webkit-border-radius: 10px 10px 10px 10px;
 }
