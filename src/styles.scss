@@ -11,12 +11,13 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #06283D;
+    background: #67655c;
+    
 }
 
 .container{
     position: relative;
-    width: 400px;
+    width: 380px;
     height: 105px;
     background: #fff;
     padding: 28px 32px;
@@ -24,6 +25,7 @@ body{
     border-radius: 18px;
     font-family: 'Roboto', sans-serif;
     transition: 0.6s ease-out;
+    background-color: cornsilk;
 }
 
 .search-box{

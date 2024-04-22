@@ -33,8 +33,9 @@
 
 .weather-details span{
     color: #06283D;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: 500;
+    padding-left:8px;
 }
 
 .weather-details p{
@@ -43,8 +44,6 @@
     font-weight: 500;
 }
 
-.text {
-    border: 9px solid #dbdbdb;
-    background-color: #dbdbdb;
-    -webkit-border-radius: 10px 10px 10px 10px;
+.wind-image {
+    width: 33px;
 }
