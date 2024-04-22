@@ -39,7 +39,9 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": [],
+            "scripts": [
+              "src/index.js"
+            ],
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
