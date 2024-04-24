@@ -6,13 +6,13 @@ const error404 = document.querySelector('.not-found');
 
 search.addEventListener('click', () => {
 
-    const APIKey = 'api key';
+    const APIKey = 'a9a5729e617e4fb89e0170750242204';
     const city = document.querySelector('.search-box input').value;
 
     if (city === '')
         return;
 
-    fetch(` https://api.weatherapi.com/v1/forecast.json?q=${city}&days=1&key=${APIKey}`)
+    fetch(`https://api.weatherapi.com/v1/forecast.json?q=${city}&days=1&key=${APIKey}`)
         .then(response => {
             const statusCode = response.status;
             return response.json()
