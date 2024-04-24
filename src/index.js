@@ -6,7 +6,7 @@ const error404 = document.querySelector('.not-found');
 
 search.addEventListener('click', () => {
 
-    const APIKey = 'a9a5729e617e4fb89e0170750242204';
+    const APIKey = 'api key';
     const city = document.querySelector('.search-box input').value;
 
     if (city === '')
@@ -41,8 +41,6 @@ search.addEventListener('click', () => {
             const wind = document.querySelector('.weather-details .wind span');
 
             image.src = `${result.data.forecast.forecastday[0].day.condition.icon}`;
-            console.log(result.data.forecast.forecastday[0].day);
-            //console.log(result.data.forecast.forecastday[0].day);
             temperature.innerHTML = `${result.data.forecast.forecastday[0].day.maxtemp_c}<span>°C</span>`;
             description.innerHTML = `${result.data.forecast.forecastday[0].day.condition.text}`;
             maxtemp.innerHTML = 'Chance of rain: ' + `${result.data.forecast.forecastday[0].day.daily_chance_of_rain}%`;
