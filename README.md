@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/MrxTyC8.png" alt="screenshot" width="100"/><br>
 
-[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/flavsjr/weather-app/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/flavsjr/weather-app/issues) [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IgorAntun/node-chat)
+[![GitHub Stars](https://img.shields.io/github/stars/flavsjr/weather-app.svg)](https://github.com/flavsjr/weather-app/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/flavsjr/weather-app.svg)](https://github.com/flavsjr/weather-app/issues) [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IgorAntun/node-chat)
 
 
 The Weather App is a simple application that allows users to view the weather forecast for any city in the world.<br> It uses the API of a weather service to obtain updated and accurate climate data.<br> Access to real time global weather stations and millions of high resolution (1 to 11 km) weather points for Hourly,<br> Daily and 15 min interval weather, history, marine, astronomy, solar irradiance, air quality data, sports, bulk request and much more.
