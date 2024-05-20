@@ -1,16 +1,49 @@
-# WeatherApp
-Aplicativo criado para consumir APi e trazer valores sobre previsão do tempo.
-Projeto criado sem standalone e usando o angular na versão 17.1.1.
+# Wheather App
 
-## Development server
+<img src="https://i.imgur.com/MrxTyC8.png" alt="screenshot" width="100"/><br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/flavsjr/weather-app/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/flavsjr/weather-app/issues) [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IgorAntun/node-chat)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+The Weather App is a simple application that allows users to view the weather forecast for any city in the world.<br> It uses the API of a weather service to obtain updated and accurate climate data.<br> Access to real time global weather stations and millions of high resolution (1 to 11 km) weather points for Hourly,<br> Daily and 15 min interval weather, history, marine, astronomy, solar irradiance, air quality data, sports, bulk request and much more.
 
-## Build
+### How To Use
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
+```bash
+# Clone this repository
+$ git clone https://github.com/flavsjr/weather-app.git
+
+# Go into the repository
+$ cd weather-app
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+### Features
+
+- Real-time weather
+- Time Zone
+- Weather Alerts
+- Air Quality Data
+- Solar Irradiance
+- Up to 99.99% uptime
+
+---
+
+## Features
+- Material Design
+- Emoji support
+- User @mentioning
+- Private messaging
+- Message deleting (for admins)
+- Ability to kick/ban users (for admins)
+- See other user's IPs (for admins)
+- Other awesome features yet to be implemented
+
+---
