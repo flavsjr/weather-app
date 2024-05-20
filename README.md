@@ -35,15 +35,3 @@ $ npm start
 - Up to 99.99% uptime
 
 ---
-
-## Features
-- Material Design
-- Emoji support
-- User @mentioning
-- Private messaging
-- Message deleting (for admins)
-- Ability to kick/ban users (for admins)
-- See other user's IPs (for admins)
-- Other awesome features yet to be implemented
-
----
