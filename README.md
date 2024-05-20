@@ -1,4 +1,4 @@
-# Wheather App
+# Weather App
 
 <img src="https://i.imgur.com/MrxTyC8.png" alt="screenshot" width="100"/><br>
 
