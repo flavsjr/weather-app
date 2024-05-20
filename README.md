@@ -9,6 +9,8 @@ The Weather App is a simple application that allows users to view the weather fo
 
 ### How To Use
 
+To use the API, you will need to register on the website: https://www.weatherapi.com/api.aspx. It is free, and you will need to get your API Key and add it to the project.
+
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
